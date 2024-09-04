@@ -57,6 +57,17 @@ desde la gestión de inversiones hasta sistemas de administración para pequeña
 - **[Mercadev](https://github.com/Guillermo090/mercadev)**  
   Aplicación para la administración de inventario en el hogar y pequeñas empresas, facilitando el seguimiento de productos, pedidos y niveles de stock de manera eficiente.
 
+## 🧠 Inteligencia Artificial y Modelos de Lenguaje
+
+Tengo experiencia trabajando con diversos modelos de lenguaje y tecnologías de inteligencia artificial, enfocándome en soluciones que mejoren la interacción con los usuarios y optimicen procesos. Aquí están algunos de los modelos y tecnologías de IA con los que he trabajado:
+
+- **ChatGPT:** Implementación de chatbots y sistemas de asistencia al cliente con respuestas automatizadas y personalizadas.
+- **Claude:** Uso para análisis de texto y generación de contenido de alta calidad.
+- **OLLAMA:** Integración de modelos en entorno local para mejorar la usabilidad y comprensión de los modelos de lenguaje natural.
+- **CodeQwen:** Aplicación en proyectos de programación asistida por IA, mejorando la productividad y la calidad del código.
+- **Mixtral:** Utilizado para tareas de traducción y generación de lenguaje en diferentes contextos.
+
+Estos modelos me han permitido desarrollar aplicaciones más inteligentes y responsivas, mejorando la experiencia del usuario y optimizando la gestión de información en diversos proyectos.
 
 ## Estadísticas de GitHub
 
